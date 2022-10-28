@@ -1,3 +1,5 @@
 pandas
 plotly
 scikit-learn
+association_metrics
+streamlit
